@@ -1,1 +1,280 @@
 2024-07-31 14:09:29 - API call - Model: claude-3-opus-20240229, Input tokens: 15731, Output tokens: 2120
+2024-08-01 12:09:17 - Total usage:
+2024-08-01 12:09:17 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:09:44 - Total usage:
+2024-08-01 12:09:44 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:09:49 - Total usage:
+2024-08-01 12:09:49 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:09:59 - Total usage:
+2024-08-01 12:09:59 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:11:51 - Total usage:
+2024-08-01 12:11:51 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:14:13 - Total usage:
+2024-08-01 12:14:13 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:14:26 - Total usage:
+2024-08-01 12:14:26 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:15:17 - Total usage:
+2024-08-01 12:15:17 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:16:33 - Total usage:
+2024-08-01 12:16:33 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:17:05 - Total usage:
+2024-08-01 12:17:05 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:17:11 - Total usage:
+2024-08-01 12:17:11 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:18:38 - Total usage:
+2024-08-01 12:18:38 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:18:44 - Total usage:
+2024-08-01 12:18:44 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:19:24 - Total usage:
+2024-08-01 12:19:24 - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:25:57,941 - INFO - Script execution started
+2024-08-01 12:25:57,941 - INFO - Processing mode: Full processing
+2024-08-01 12:25:57,941 - INFO - Processing file: paragraph_16.txt
+2024-08-01 12:25:58,247 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:58,253 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:58,253 - WARNING - Failed to process paragraph_16.txt
+2024-08-01 12:25:58,253 - INFO - Processing file: paragraph_17.txt
+2024-08-01 12:25:58,644 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:58,647 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:58,647 - WARNING - Failed to process paragraph_17.txt
+2024-08-01 12:25:58,648 - INFO - Processing file: paragraph_15.txt
+2024-08-01 12:25:59,063 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:59,066 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:59,066 - WARNING - Failed to process paragraph_15.txt
+2024-08-01 12:25:59,067 - INFO - Processing file: paragraph_14.txt
+2024-08-01 12:25:59,314 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:59,317 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:59,317 - WARNING - Failed to process paragraph_14.txt
+2024-08-01 12:25:59,317 - INFO - Processing file: paragraph_10.txt
+2024-08-01 12:25:59,543 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:59,544 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:59,544 - WARNING - Failed to process paragraph_10.txt
+2024-08-01 12:25:59,544 - INFO - Processing file: paragraph_11.txt
+2024-08-01 12:25:59,873 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:25:59,876 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:25:59,877 - WARNING - Failed to process paragraph_11.txt
+2024-08-01 12:25:59,877 - INFO - Processing file: paragraph_13.txt
+2024-08-01 12:26:00,138 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:00,140 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:00,140 - WARNING - Failed to process paragraph_13.txt
+2024-08-01 12:26:00,140 - INFO - Processing file: paragraph_9.txt
+2024-08-01 12:26:00,366 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:00,369 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:00,369 - WARNING - Failed to process paragraph_9.txt
+2024-08-01 12:26:00,369 - INFO - Processing file: paragraph_8.txt
+2024-08-01 12:26:00,585 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:00,587 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:00,588 - WARNING - Failed to process paragraph_8.txt
+2024-08-01 12:26:00,588 - INFO - Processing file: paragraph_12.txt
+2024-08-01 12:26:00,817 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:00,820 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:00,820 - WARNING - Failed to process paragraph_12.txt
+2024-08-01 12:26:00,820 - INFO - Processing file: paragraph_5.txt
+2024-08-01 12:26:01,126 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:01,128 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:01,128 - WARNING - Failed to process paragraph_5.txt
+2024-08-01 12:26:01,128 - INFO - Processing file: paragraph_4.txt
+2024-08-01 12:26:01,364 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:01,366 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:01,366 - WARNING - Failed to process paragraph_4.txt
+2024-08-01 12:26:01,366 - INFO - Processing file: paragraph_20.txt
+2024-08-01 12:26:01,717 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:01,719 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:01,719 - WARNING - Failed to process paragraph_20.txt
+2024-08-01 12:26:01,719 - INFO - Processing file: paragraph_6.txt
+2024-08-01 12:26:02,024 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:02,025 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:02,025 - WARNING - Failed to process paragraph_6.txt
+2024-08-01 12:26:02,025 - INFO - Processing file: paragraph_7.txt
+2024-08-01 12:26:02,269 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:02,271 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:02,271 - WARNING - Failed to process paragraph_7.txt
+2024-08-01 12:26:02,271 - INFO - Processing file: paragraph_19.txt
+2024-08-01 12:26:02,503 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:02,505 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:02,505 - WARNING - Failed to process paragraph_19.txt
+2024-08-01 12:26:02,505 - INFO - Processing file: paragraph_3.txt
+2024-08-01 12:26:02,724 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:02,726 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:02,726 - WARNING - Failed to process paragraph_3.txt
+2024-08-01 12:26:02,726 - INFO - Processing file: paragraph_2.txt
+2024-08-01 12:26:02,939 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:02,940 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:02,940 - WARNING - Failed to process paragraph_2.txt
+2024-08-01 12:26:02,940 - INFO - Processing file: paragraph_18.txt
+2024-08-01 12:26:03,303 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:03,305 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:03,305 - WARNING - Failed to process paragraph_18.txt
+2024-08-01 12:26:03,305 - INFO - Processing file: paragraph_1.txt
+2024-08-01 12:26:03,550 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:26:03,552 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:26:03,553 - WARNING - Failed to process paragraph_1.txt
+2024-08-01 12:26:03,553 - INFO - Compiling results from results to compiled_interpretations.docx
+2024-08-01 12:26:03,591 - INFO - Compiled document saved as compiled_interpretations.docx
+2024-08-01 12:26:03,591 - INFO - Total usage:
+2024-08-01 12:26:03,591 - INFO - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:26:03,591 - WARNING - Errors encountered during processing
+2024-08-01 12:26:03,591 - INFO - Script execution completed
+2024-08-01 12:28:30,048 - INFO - Script execution started
+2024-08-01 12:28:30,049 - INFO - Processing mode: Full processing
+2024-08-01 12:28:30,049 - INFO - Processing file: paragraph_16.txt
+2024-08-01 12:28:30,396 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:30,399 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:30,399 - WARNING - Failed to process paragraph_16.txt
+2024-08-01 12:28:30,400 - INFO - Processing file: paragraph_17.txt
+2024-08-01 12:28:31,019 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:31,021 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:31,021 - WARNING - Failed to process paragraph_17.txt
+2024-08-01 12:28:31,021 - INFO - Processing file: paragraph_15.txt
+2024-08-01 12:28:31,336 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:31,339 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:31,339 - WARNING - Failed to process paragraph_15.txt
+2024-08-01 12:28:31,339 - INFO - Processing file: paragraph_14.txt
+2024-08-01 12:28:31,598 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:31,601 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:31,601 - WARNING - Failed to process paragraph_14.txt
+2024-08-01 12:28:31,601 - INFO - Processing file: paragraph_10.txt
+2024-08-01 12:28:31,957 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:31,960 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:31,960 - WARNING - Failed to process paragraph_10.txt
+2024-08-01 12:28:31,960 - INFO - Processing file: paragraph_11.txt
+2024-08-01 12:28:32,453 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:32,455 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:32,455 - WARNING - Failed to process paragraph_11.txt
+2024-08-01 12:28:32,456 - INFO - Processing file: paragraph_13.txt
+2024-08-01 12:28:32,758 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:32,760 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:32,760 - WARNING - Failed to process paragraph_13.txt
+2024-08-01 12:28:32,760 - INFO - Processing file: paragraph_9.txt
+2024-08-01 12:28:32,983 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:32,986 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:32,986 - WARNING - Failed to process paragraph_9.txt
+2024-08-01 12:28:32,986 - INFO - Processing file: paragraph_8.txt
+2024-08-01 12:28:33,209 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:33,212 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:33,212 - WARNING - Failed to process paragraph_8.txt
+2024-08-01 12:28:33,212 - INFO - Processing file: paragraph_12.txt
+2024-08-01 12:28:33,786 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:33,789 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:33,789 - WARNING - Failed to process paragraph_12.txt
+2024-08-01 12:28:33,789 - INFO - Processing file: paragraph_5.txt
+2024-08-01 12:28:34,048 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:34,051 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:34,051 - WARNING - Failed to process paragraph_5.txt
+2024-08-01 12:28:34,051 - INFO - Processing file: paragraph_4.txt
+2024-08-01 12:28:34,373 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:34,375 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:34,375 - WARNING - Failed to process paragraph_4.txt
+2024-08-01 12:28:34,375 - INFO - Processing file: paragraph_20.txt
+2024-08-01 12:28:34,613 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:34,616 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:34,616 - WARNING - Failed to process paragraph_20.txt
+2024-08-01 12:28:34,616 - INFO - Processing file: paragraph_6.txt
+2024-08-01 12:28:34,953 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:34,956 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:34,956 - WARNING - Failed to process paragraph_6.txt
+2024-08-01 12:28:34,956 - INFO - Processing file: paragraph_7.txt
+2024-08-01 12:28:35,213 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:35,215 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:35,215 - WARNING - Failed to process paragraph_7.txt
+2024-08-01 12:28:35,215 - INFO - Processing file: paragraph_19.txt
+2024-08-01 12:28:35,470 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:35,473 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:35,473 - WARNING - Failed to process paragraph_19.txt
+2024-08-01 12:28:35,473 - INFO - Processing file: paragraph_3.txt
+2024-08-01 12:28:35,712 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:35,715 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:35,715 - WARNING - Failed to process paragraph_3.txt
+2024-08-01 12:28:35,715 - INFO - Processing file: paragraph_2.txt
+2024-08-01 12:28:36,101 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:36,103 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:36,103 - WARNING - Failed to process paragraph_2.txt
+2024-08-01 12:28:36,103 - INFO - Processing file: paragraph_18.txt
+2024-08-01 12:28:36,333 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:36,335 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:36,335 - WARNING - Failed to process paragraph_18.txt
+2024-08-01 12:28:36,336 - INFO - Processing file: paragraph_1.txt
+2024-08-01 12:28:36,570 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-08-01 12:28:36,573 - ERROR - Error in API call: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Claude API. Please go to Plans & Billing to upgrade or purchase credits.'}}
+2024-08-01 12:28:36,573 - WARNING - Failed to process paragraph_1.txt
+2024-08-01 12:28:36,573 - INFO - Compiling results from results to compiled_interpretations.docx
+2024-08-01 12:28:36,611 - INFO - Compiled document saved as compiled_interpretations.docx
+2024-08-01 12:28:36,611 - INFO - Total usage:
+2024-08-01 12:28:36,611 - INFO - Overall - Input tokens: 0, Output tokens: 0
+2024-08-01 12:28:36,611 - WARNING - Errors encountered during processing
+2024-08-01 12:28:36,612 - INFO - Script execution completed
+2024-08-01 12:29:13,358 - INFO - Script execution started
+2024-08-01 12:29:13,358 - INFO - Processing mode: Full processing
+2024-08-01 12:29:13,359 - INFO - Processing file: paragraph_16.txt
+2024-08-01 12:29:36,766 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:29:36,776 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15736, Output tokens: 1987
+2024-08-01 12:29:36,777 - INFO - Result saved to results/paragraph_16_claude-3-5-sonnet-20240620.json
+2024-08-01 12:29:36,777 - INFO - Processing file: paragraph_17.txt
+2024-08-01 12:29:58,165 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:29:58,170 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15522, Output tokens: 1419
+2024-08-01 12:29:58,171 - INFO - Result saved to results/paragraph_17_claude-3-5-sonnet-20240620.json
+2024-08-01 12:29:58,171 - INFO - Processing file: paragraph_15.txt
+2024-08-01 12:30:11,003 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+2024-08-01 12:30:11,010 - INFO - Retrying request to /v1/messages in 0.949841 seconds
+2024-08-01 12:32:13,389 - INFO - Script execution started
+2024-08-01 12:32:13,389 - INFO - Processing mode: Full processing
+2024-08-01 12:32:13,390 - INFO - Processing file: paragraph_16.txt
+2024-08-01 12:32:15,444 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+2024-08-01 12:32:15,451 - INFO - Retrying request to /v1/messages in 0.817850 seconds
+2024-08-01 12:32:40,329 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:32:40,340 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15736, Output tokens: 1800
+2024-08-01 12:32:40,341 - INFO - Result saved to results/paragraph_16_claude-3-5-sonnet-20240620.json
+2024-08-01 12:32:40,341 - INFO - Processing file: paragraph_17.txt
+2024-08-01 12:33:00,317 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:33:00,319 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15522, Output tokens: 1394
+2024-08-01 12:33:00,320 - INFO - Result saved to results/paragraph_17_claude-3-5-sonnet-20240620.json
+2024-08-01 12:33:00,321 - INFO - Processing file: paragraph_15.txt
+2024-08-01 12:33:17,936 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:33:17,940 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15483, Output tokens: 1308
+2024-08-01 12:33:17,941 - INFO - Result saved to results/paragraph_15_claude-3-5-sonnet-20240620.json
+2024-08-01 12:33:17,942 - INFO - Processing file: paragraph_14.txt
+2024-08-01 12:33:36,042 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:33:36,046 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15498, Output tokens: 1408
+2024-08-01 12:33:36,048 - INFO - Result saved to results/paragraph_14_claude-3-5-sonnet-20240620.json
+2024-08-01 12:33:36,049 - INFO - Processing file: paragraph_10.txt
+2024-08-01 12:33:55,527 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:33:55,529 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15358, Output tokens: 1148
+2024-08-01 12:33:55,530 - INFO - Result saved to results/paragraph_10_claude-3-5-sonnet-20240620.json
+2024-08-01 12:33:55,531 - INFO - Processing file: paragraph_11.txt
+2024-08-01 12:34:15,122 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:34:15,126 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 16307, Output tokens: 956
+2024-08-01 12:34:15,127 - INFO - Result saved to results/paragraph_11_claude-3-5-sonnet-20240620.json
+2024-08-01 12:34:15,128 - INFO - Processing file: paragraph_13.txt
+2024-08-01 12:34:42,783 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:34:42,787 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 16056, Output tokens: 2423
+2024-08-01 12:34:42,789 - INFO - Result saved to results/paragraph_13_claude-3-5-sonnet-20240620.json
+2024-08-01 12:34:42,790 - INFO - Processing file: paragraph_9.txt
+2024-08-01 12:35:04,873 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:35:04,877 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 16826, Output tokens: 1221
+2024-08-01 12:35:04,879 - INFO - Result saved to results/paragraph_9_claude-3-5-sonnet-20240620.json
+2024-08-01 12:35:04,879 - INFO - Processing file: paragraph_8.txt
+2024-08-01 12:35:35,112 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:35:35,125 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 16223, Output tokens: 2471
+2024-08-01 12:35:35,127 - INFO - Result saved to results/paragraph_8_claude-3-5-sonnet-20240620.json
+2024-08-01 12:35:35,127 - INFO - Processing file: paragraph_12.txt
+2024-08-01 12:35:58,830 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:35:58,835 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15770, Output tokens: 2075
+2024-08-01 12:35:58,836 - INFO - Result saved to results/paragraph_12_claude-3-5-sonnet-20240620.json
+2024-08-01 12:35:58,836 - INFO - Processing file: paragraph_5.txt
+2024-08-01 12:36:42,995 - INFO - Script execution started
+2024-08-01 12:36:42,996 - INFO - Processing mode: Full processing
+2024-08-01 12:36:42,996 - INFO - Processing file: paragraph_16.txt
+2024-08-01 12:37:04,361 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 529 "
+2024-08-01 12:37:04,367 - INFO - Retrying request to /v1/messages in 0.784317 seconds
+2024-08-01 12:37:34,480 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:37:34,493 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15736, Output tokens: 2091
+2024-08-01 12:37:34,494 - INFO - Result saved to results/paragraph_16_claude-3-5-sonnet-20240620_20240801_123734.json
+2024-08-01 12:37:34,495 - INFO - Processing file: paragraph_17.txt
+2024-08-01 12:37:52,340 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:37:52,343 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15522, Output tokens: 1510
+2024-08-01 12:37:52,344 - INFO - Result saved to results/paragraph_17_claude-3-5-sonnet-20240620_20240801_123752.json
+2024-08-01 12:37:52,345 - INFO - Processing file: paragraph_15.txt
+2024-08-01 12:38:13,909 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2024-08-01 12:38:13,911 - INFO - API call - Model: claude-3-5-sonnet-20240620, Input tokens: 15483, Output tokens: 1361
+2024-08-01 12:38:13,912 - INFO - Result saved to results/paragraph_15_claude-3-5-sonnet-20240620_20240801_123813.json
+2024-08-01 12:38:13,912 - INFO - Processing file: paragraph_14.txt
